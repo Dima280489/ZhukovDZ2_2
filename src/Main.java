@@ -8,7 +8,7 @@ public class Main {
             bonus = replenishmentAmount / 100;
         }
 
-        int finalBalance = customerAccount+replenishmentAmount+bonus;
-        System.out.println("Итоговый баланс=" +finalBalance);
+        int finalBalance = customerAccount + replenishmentAmount + bonus;
+        System.out.println("Итоговый баланс=" + finalBalance);
     }
 }
